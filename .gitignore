@@ -1,0 +1,5 @@
+/node_modules/
+/vendor/
+/source/assets/build/
+.env
+npm-debug.log
